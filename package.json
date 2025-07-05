@@ -2,7 +2,7 @@
   "name": "terremotos-tocopilla",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://TU_USUARIO.github.io/terremotos-tocopilla",
+  "homepage": "https://ClaudiaLovera.github.io/terremotos-tocopilla",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
